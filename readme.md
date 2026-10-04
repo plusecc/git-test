@@ -1,4 +1,6 @@
-(''hello world'')#
+coffee = 'drink'
+str(coffee)
+float(3.5)
+int(5)
 
-if b=3 c=4
 
